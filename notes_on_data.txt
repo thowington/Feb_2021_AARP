@@ -1,0 +1,4 @@
+1) clarify that by underserved, FCC means few providers
+2) clarify that we don't know the takeup rate, or the probablilty of takeup
+3) re-emphasisize that the FCC BB data over-estimates deployment (at least one HH with BB availabel)
+4) note that we consider adequate BB to be download of 25, upload of 3 mbps.
